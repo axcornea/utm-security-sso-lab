@@ -27,10 +27,10 @@ Run the following command inside the root of this repository:
 
 ```bash
 # *nix
-> ./gradlew
+> ./gradlew bootRun
 
 # Windows
-> .\gradlew.bat
+> .\gradlew.bat bootRun
 ```
 
 The application will start in a few seconds and will be accessible under `http://localhost:8080/` web page.
